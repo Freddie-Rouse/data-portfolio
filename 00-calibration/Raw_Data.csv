@@ -1,0 +1,263 @@
+Order ID,Order Date,Customer Name,Region,Product Category,Product,Units,Unit Price,Discount %,Sales Rep,Status
+ORD-1249,14/08/2026,Grace Walker,Wales,Monitors,Monitor 27in,3,229,0,Liam O'Connor,Pending
+ORD-1147,09/08/2026,JACK HUGHES, South West ,Laptops,Laptop Basic 15,6,429,0.1,Daniel Evans,Shipped
+ORD-1004,20/03/2026,Freya White,Scotland,Monitors,Monitor 24in,9,139,0,Sophie Turner,Shipped
+ORD-1052,17/08/2026,JACK BROWN,South West,Accessories,Keyboard,30,49,0,Daniel Evans,Shipped
+ORD-1038,18/09/2026,Jack Taylor,N West,Software,Cloud Backup 1yr,9,59,0,Aisha Khan,Shipped
+ORD-1179,10/07/2026,Freya White,Mid-lands,Monitors,Monitor 27in,7,229,0.15,Sophie Turner,Shipped
+ORD-1167,27/07/2026,OSCAR HUGHES,South West,Laptops,Laptop Air 13,5,649,0.15,Aisha Khan,Shipped
+ORD-1188,18/08/2026,Jack Thompson,South West,Accessories,USB-C Hub,21,34.5,0.05,Tom Hargreaves,Shipped
+ORD-1194,21/06/2026,EVIE ROBERTS,South West,Accessories,USB-C Hub,4,34.5,5,,Shipped
+ORD-1067,12/07/2026,Henry White,Scotland,Software,Cloud Backup 1yr,,59,0.15,Daniel Evans,Shipped
+ORD-1073,14/07/2026,Mia Brown,North East,Monitors,Monitor 24in,8,139,0.05,Tom Hargreaves,Shipped 
+ORD-1195,29/08/2026,Amelia Smith,North West,Software,Cloud Backup 1yr,1,59,0,Tom Hargreaves,Shipped
+ORD-1160,20/05/2026,Leo Roberts,Scotland,Software,Cloud Backup 1yr,7,59,0.05,Liam O'Connor,Shipped
+ORD-1157,25/07/2026,Oscar Thomas,north west,Laptops,Laptop Pro 14,6,899,0.15,Sophie Turner,Shipped
+ORD-1081,21/02/2026,Evie Robinson,NORTH EAST,Accessories,Laptop Sleeve,16,24.99,0,Priya Shah,Cancelled
+ORD-1092,06/02/2026,Arthur Edwards,South West,Laptops,Laptop Pro 14,5,899,0.1,Aisha Khan,Completed
+ORD-1084,27/01/2026,Evie Hughes,North West,Monitors,Monitor 27in,2,229,0.05,Liam O'Connor,Shipped
+ORD-1041,24/09/2026,  Henry White,Wales,Accessories,Laptop Sleeve,29,£24.99,0,Sophie Turner,Shipped
+ORD-1094,10/09/2026,Grace Wilson,London,Software,Office Suite,10,99,0.15,Aisha Khan,Pending
+ORD-1163,04/06/2026,Evie Roberts,Midlands,Accessories,USB-C Hub,18,34.5,0,Priya Shah,Completed
+ORD-1161,21/04/2026,Evie Roberts,Wales,Laptops,Laptop Air 13,1,649,0.15,Sophie Turner,Completed
+ORD-1095,09/05/2026,Charlie Roberts,South West,Laptops,Laptop Pro 14,6,899,10,Sophie Turner,Shipped
+ORD-1217,17/08/2026,Oliver Davies,North West,Accessories,Laptop Sleeve,33,24.99,0,Priya Shah,Completed
+ORD-1183,27/09/2026,Noah Davies,Mid-lands,Laptops,Laptop Basic 15,4,429,0,Aisha Khan,Shipped
+ORD-1236,12/01/2026,leo wright,North East,Laptops,Laptop Air 13,4,649,0.1,Aisha Khan,shipped
+ORD-1192,16/02/2026,Oscar Thomas,Londn,Accessories,Keyboard,24,49,0,Liam O'Connor,pending
+ORD-1193,11/07/2026,Evie Robinson,North East,Accessories,Keyboard,7,49,0,Aisha Khan,Shipped
+ORD-1116,31/05/2026,Mia White,North East,Monitors,Monitor 27in,7,229,0.1,Liam O'Connor,Pending
+ORD-1177,19/03/2026,Henry Thompson,north west,Laptops,Laptop Air 13,3,£649,0.1,Daniel Evans,Shipped
+ORD-1055,16/07/2026,Grace Walker,Londn,Accessories,USB-C Hub,6,34.5,0,Sophie Turner,Completed
+ORD-1169,23/06/2026,Henry White,Scotland,Accessories,Laptop Sleeve,12,24.99,0.15,Priya Shah,Pending
+ORD-1022,19/10/2026,Grace Walker,Wales,Accessories,Wireless Mouse,7,19.99,0.1,Sophie Turner,Pending
+ORD-1016,15/08/2026,CHARLIE ROBERTS,North West,Laptops,Laptop Pro 14,,899,0,Tom Hargreaves,Shipped
+ORD-1202,25/10/2026,Mia Walker,,Monitors,Monitor 24in,1,139,0,Daniel Evans,shipped
+ORD-1111,21/02/2026,Mia White,London,Software,Office Suite,12,99,0.15,Tom Hargreaves,Shipped
+ORD-1044,19/10/2026,Charlie Roberts,North West,Monitors,Monitor 27in,9,229,0,Aisha Khan,Shipped
+ORD-1230,04/06/2026,Noah Jones,Mid-lands,Software,Office Suite,11,£99,0.05,Priya Shah,Cancelled
+ORD-1152,05/08/2026,Mia Walker,North West,Laptops,Laptop Air 13,3,649,0.1,Sophie Turner,Shipped
+ORD-1218,30/03/2026,mia brown,Wales,Software,Office Suite,11,99,0,Daniel Evans,Shipped
+ORD-1145,11/02/2026,Henry White,North East,Monitors,Monitor 32in Curved,3,329,0,Sophie Turner,Cancelled
+ORD-1150,31/08/2026,Noah Thomas,North West,Laptops,Laptop Pro 14,1,899,0.15,Daniel Evans,Shipped
+ORD-1178,21/01/2026,Mia Thomas,scotland,Accessories,Keyboard,,49,0.1,Tom Hargreaves,Shipped
+ORD-1003,14/09/2026,Charlie Roberts,Wales,Accessories,Wireless Mouse,21,19.99,0.1,Sophie Turner,shipped
+ORD-1155,13/10/2026,Ruby Robinson,North West,Laptops,Laptop Basic 15,6,429,0,Aisha Khan,cancelled
+ORD-1093,05/03/2026,Mia Roberts,,Software,Cloud Backup 1yr,,59,0,Sophie Turner,Pending
+ORD-1151,08/03/2026,Jack Taylor,Wales,Laptops,Laptop Basic 15,5,429,0,Liam O'Connor,Shipped
+ORD-1014,20/02/2026,  Jack Thompson,South West,Laptops,Laptop Air 13,3,649,0,Tom Hargreaves,Shipped
+ORD-1203,26/08/2026,Jack Thompson,North East,Software,Cloud Backup 1yr,3,59,0,Daniel Evans,Completed
+ORD-1087,19/10/2026,Isla Wilson,North East,Laptops,Laptop Basic 15,1,429,0.15,Tom Hargreaves,Shipped
+ORD-1235,10/06/2026,Noah Davies,London,Accessories,USB-C Hub,33,£34.5,0.05,Aisha Khan,Completed
+ORD-1216,06/04/2026,Jack Roberts,North West,Software,Cloud Backup 1yr,7,59,0,Aisha Khan,Cancelled
+ORD-1130,30/04/2026,Jack Roberts,Midlands,Software,Office Suite,10,99,0.1,Tom Hargreaves,Cancelled
+ORD-1070,04/08/2026,Evie Robinson,Wales,Software,Office Suite,7,99,0.05,Daniel Evans,Shipped
+ORD-1112,29/08/2026,Mia Roberts,London,Monitors,Monitor 27in,10,229,0.15,Priya Shah,Shipped
+ORD-1099,09/10/2026,Jack Brown,Midlands,Laptops,Laptop Air 13,3,649,0,Liam O'Connor,Pending
+ORD-1220,05/07/2026,Evie Taylor,North East,Accessories,Wireless Mouse,14,19.99,0,Liam O'Connor,Shipped
+ORD-1224,04/04/2026,Isla Taylor,South West,Accessories,Keyboard,34,49,0,,shipped
+ORD-1124,09/05/2026,Amelia Hughes,south west,Accessories,Wireless Mouse,4,19.99,0.05,Priya Shah,Pending
+ORD-1023,11/06/2026,HENRY THOMPSON,Midlands,Monitors,Monitor 24in,11,139,0,Aisha Khan,Completed
+ORD-1065,28/02/2026,Freya White,Midlands,Accessories,Keyboard,18,49,0,Sophie Turner,Pending
+ORD-1088,11/02/2026,Jack Roberts,NORTH WEST,Accessories,USB-C Hub,13,34.5,0,Priya Shah,Completed
+ORD-1030,02/01/2026,Jack Brown,North East,Monitors,Monitor 24in,11,139,0.15,Liam O'Connor,Pending
+ORD-1080,21/04/2026,Grace Jones,South West,Software,Antivirus 1yr,12,£39.99,0.1,Sophie Turner,Shipped
+ORD-1141,09/01/2026,  Mia Evans,Wales,Accessories,Laptop Sleeve,5,24.99,5,Sophie Turner,Shipped
+ORD-1042,05/03/2026,Arthur Roberts,London,Monitors,Monitor 32in Curved,5,329,0,Liam O'Connor,Cancelled
+ORD-1246,26/10/2026,Leo Edwards,north west,Monitors,Monitor 32in Curved,12,329,10,Liam O'Connor,Shipped
+ORD-1051,26/08/2026,Evie Hughes,Wales,Monitors,Monitor 27in,10,229,0.1,Liam O'Connor,Pending
+ORD-1181,18/03/2026,Arthur Roberts,,Monitors,Monitor 24in,10,£139,0,Aisha Khan,Cancelled
+ORD-1100,01/01/2026,Oliver Davies,Scotland,Software,Antivirus 1yr,1,39.99,0,Sophie Turner,Completed
+ORD-1039,25/10/2026,Harry Thompson,London,Monitors,Monitor 24in,2,139,0,Daniel Evans,Shipped
+ORD-1135,17/01/2026,Isla Thompson,,Monitors,Monitor 24in,8,139,0,Priya Shah,Cancelled 
+ORD-1128,23/07/2026,Isla Smith,Midlands,Monitors,Monitor 24in,7,139,0.1,Priya Shah,Completed
+ORD-1239,24/01/2026,Jack Roberts,North East,Software,Office Suite,10,99,0,Sophie Turner,Shipped
+ORD-1002,27/02/2026,  Oscar Hughes,North West,Monitors,Monitor 27in,3,229,0.15,Daniel Evans,Shipped
+ORD-1114,05/02/2026,Arthur Edwards,N West,Accessories,Laptop Sleeve,16,24.99,0.05,Priya Shah,Cancelled
+ORD-1120,03/06/2026,Oscar Hughes,South West,Software,Cloud Backup 1yr,9999,59,0,Tom Hargreaves,Complete
+ORD-1148,09/08/2026,Jack Taylor,South West,Software,Office Suite,7,99,0.05,Liam O'Connor,Completed
+ORD-1234,19/02/2026,grace walker,NORTH EAST,Laptops,Laptop Air 13,5,649,0,Aisha Khan,Pending
+ORD-1028,24/02/2026,Harry Thompson,North East,Accessories,Laptop Sleeve,20,24.99,0.15,Aisha Khan,Shipped 
+ORD-1159,18/10/2026,Isla Wilson,Scotland,Laptops,Laptop Pro 14,2,899,0,Daniel Evans,Shipped
+ORD-1076,09/09/2026,Evie Roberts,North East,Software,Office Suite,2,99,5,Daniel Evans,Shipped
+ORD-1248,14/07/2026,Harry Jones,Wales,Accessories,USB-C Hub,4,34.5,0,Tom Hargreaves,Shipped
+ORD-1010,23/04/2026,isla taylor,North East,Laptops,Laptop Pro 14,6,899,0,Priya Shah,shipped
+ORD-1190,24/03/2026,isla taylor,Wales,Accessories,USB-C Hub,18,34.5,0.05,Aisha Khan,Pending
+ORD-1086,02/08/2026,Isla Thompson,Midlands,Accessories,Keyboard,30,49,0.1,Liam O'Connor,Shipped 
+ORD-1142,02/02/2026,Noah Davies,Scotland,Software,Antivirus 1yr,6,39.99,0,Liam O'Connor,Pending
+ORD-1122,12/01/2026,HARRY JONES,South West,Software,Antivirus 1yr,1,39.99,0.15,Daniel Evans,Shipped
+ORD-1199,20/10/2026,Arthur Roberts,North West,Software,Office Suite,11,99,0.1,Aisha Khan,Shipped
+ORD-1007,09/10/2026,Harry Thompson,London,Accessories,Laptop Sleeve,35,24.99,0,Sophie Turner,Cancelled
+ORD-1025,2026-10-16,Noah Davies,Midlands,Laptops,Laptop Pro 14,2,899,0,Aisha Khan,Shipped
+ORD-1185,01/06/2026,Mia Thomas, NORTH WEST ,Laptops,Laptop Basic 15,6,429,0.15,Aisha Khan,Pending
+ORD-1156,08/06/2026,Henry Roberts,South West,Monitors,Monitor 27in,1,229,0,Sophie Turner,Cancelled
+ORD-1048,07/02/2026,Harry Jones,North East,Software,Antivirus 1yr,11,39.99,0.15,Daniel Evans,completed
+ORD-1189,20/10/2026,Freya White,London,Software,Antivirus 1yr,5,39.99,0.1,Sophie Turner,Completed
+ORD-1011,06/02/2026,Ella Wright,Scotlnd,Accessories,Laptop Sleeve,33,24.99,0,Daniel Evans,Pending
+ORD-1243,20/06/2026,Mia White,Scotland,Software,Cloud Backup 1yr,8,59,0.1,Tom Hargreaves,Shipped
+ORD-1043,01/06/2026,Arthur Roberts,London,Accessories,USB-C Hub,28,34.5,0.15,Daniel Evans,Shipped
+ORD-1027,28/09/2026,Arthur Roberts,North West,Laptops,Laptop Basic 15,3,429,0,Aisha Khan,Shipped
+ORD-1232,15/03/2026,Ruby Thomas,South West,Monitors,Monitor 32in Curved,6,329,0,Liam O'Connor,Shipped
+ORD-1032,10/10/2026,Grace Wilson, Midlands ,Accessories,Keyboard,10,49,0,Priya Shah,Shipped
+ORD-1050,23/04/2026,Jack Roberts,north east,Accessories,Keyboard,5,49,0,Liam O'Connor,Shipped
+ORD-1164,09/08/2026,Freya Hughes,Wales,Accessories,USB-C Hub,26,£34.5,0,Sophie Turner,Pending
+ORD-1068,22/02/2026,Jack Thompson,north west,Monitors,Monitor 32in Curved,10,329,0.1,Priya Shah,Shipped
+ORD-1247,24/10/2026,  RUBY DAVIES,North East,Accessories,Wireless Mouse,39,19.99,0.1,Daniel Evans,cancelled
+ORD-1126,09/03/2026,Ruby Robinson, South West ,Monitors,Monitor 32in Curved,9,329,0,Aisha Khan,Completed
+ORD-1125,06/07/2026,Mia Brown,Wales,Accessories,Wireless Mouse,20,19.99,0.05,Tom Hargreaves,Shipped
+ORD-1072,18/05/2026,Ruby Robinson,london,Monitors,Monitor 24in,2,139,0,Liam O'Connor,Pending
+ORD-1008,13/04/2026,Jack Hughes,Midlands,Monitors,Monitor 27in,11,229,0.05,Sophie Turner,Completed
+ORD-1146,27/10/2026,Mia Thomas,Midlands,Monitors,Monitor 27in,10,229,0.05,Sophie Turner,pending
+ORD-1104,20/03/2026,Noah Davies,Wales,Software,Cloud Backup 1yr,5,£59,0,Liam O'Connor,Completed
+ORD-1229,18/04/2026,Oscar Thomas,London,Software,Cloud Backup 1yr,11,59,0.15,Sophie Turner,Shipped
+ORD-1091,12/04/2026,Oscar Wilson,WALES,Software,Office Suite,9,99,0,Aisha Khan,Shipped
+ORD-1133,21/08/2026,Mia Roberts,Scotland,Monitors,Monitor 32in Curved,12,329,0.05,Sophie Turner,Cancelled
+ORD-1123,2026-09-12,JACK THOMPSON,Mid-lands,Monitors,Monitor 24in,10,139,0,Daniel Evans,Shipped
+ORD-1172,2026-04-01,Isla Wilson,Scotlnd,Software,Antivirus 1yr,10,39.99,0.05,Daniel Evans,Pending
+ORD-1182,20/07/2026,Jack Roberts,London,Accessories,Wireless Mouse,21,19.99,0.15,Aisha Khan,Shipped
+ORD-1196,08/10/2026,Leo Wright,Midlands,Software,Office Suite,5,99,0,,Shipped
+ORD-1143,24/04/2026,Amelia Hughes,london,Laptops,Laptop Basic 15,5,429,0.15,Priya Shah,Shipped
+ORD-1069,30/09/2026,Henry White,Scotland,Software,Cloud Backup 1yr,6,59,0.15,Aisha Khan,Shipped
+ORD-1204,19/01/2026,Evie Taylor, North East ,Monitors,Monitor 24in,1,139,0,Aisha Khan,Shipped
+ORD-1024,09/03/2026,Isla Wilson,North West,Monitors,Monitor 27in,6,229,0,Liam O'Connor,Pending
+ORD-1184,03/04/2026,  Oliver Davies,North East,Accessories,Laptop Sleeve,33,24.99,0,Tom Hargreaves,Shipped
+ORD-1039,25/10/2026,Harry Thompson,London,Monitors,Monitor 24in,2,139,0,Daniel Evans,Shipped
+ORD-1020,01/02/2026,Grace Jones,,Monitors,Monitor 24in,1,139,0.1,Sophie Turner,Shipped
+ORD-1212,20/09/2026,Harry Thompson,Wales,Accessories,Wireless Mouse,11,19.99,0.05,,Shipped
+ORD-1054,01/05/2026,Freya Hughes,north west,Monitors,Monitor 27in,6,229,0,Tom Hargreaves,Shipped
+ORD-1213,04/02/2026,Henry Evans,Scotland,Accessories,Laptop Sleeve,25,24.99,0,Sophie Turner,Shipped
+ORD-1245,08/09/2026,Evie Robinson,MIDLANDS,Monitors,Monitor 27in,1,229,0.15,Priya Shah,Completed
+ORD-1225,05/06/2026,  Henry Thompson,North East,Accessories,USB-C Hub,22,34.5,0,Sophie Turner,shipped
+ORD-1176,25/08/2026,Oliver Davies,Midlands,Laptops,Laptop Air 13,6,£649,0.1,Liam O'Connor,Pending
+ORD-1198,21/09/2026,  Noah Thomas,north west,Accessories,USB-C Hub,20,£34.5,0.1,Aisha Khan,Shipped
+ORD-1127,01/06/2026,Henry White,North East,Monitors,Monitor 24in,8,139,0,Daniel Evans,cancelled 
+ORD-1110,19/03/2026,Noah Davies,Scotland,Software,Office Suite,3,99,0,Priya Shah,Completed
+ORD-1045,09/08/2026,isla thompson,WALES,Monitors,Monitor 27in,8,229,0,Sophie Turner,Completed
+ORD-1222,23/07/2026,Freya White,London,Software,Cloud Backup 1yr,7,59,0.1,Priya Shah,Shipped
+ORD-1174,21/05/2026,Amelia Hughes, LONDON ,Laptops,Laptop Air 13,1,649,0.05,Priya Shah,Shipped
+ORD-1238,02/10/2026,  Jack Brown,Wales,Laptops,Laptop Pro 14,2,899,0,Liam O'Connor,shipped 
+ORD-1130,30/04/2026,Jack Roberts,Midlands,Software,Office Suite,10,99,0.1,Tom Hargreaves,Cancelled
+ORD-1057,14/07/2026,Amelia Hughes,South West,Software,Office Suite,6,99,5,Liam O'Connor,Pending
+ORD-1134,21/03/2026,Charlie Roberts,London,Software,Cloud Backup 1yr,2,59,0.1,Liam O'Connor,Shipped
+ORD-1037,09/04/2026,Henry White,South West,Software,Antivirus 1yr,5,39.99,0,Aisha Khan,Cancelled
+ORD-1078,19/06/2026,Ruby Robinson,Midlands,Monitors,Monitor 32in Curved,8,329,0,Tom Hargreaves,Shipped
+ORD-1061,11/03/2026,Jack Brown,London,Software,Office Suite,,99,0,Tom Hargreaves,Completed
+ORD-1083,2026-09-09,RUBY DAVIES,London,Laptops,Laptop Pro 14,3,899,0.05,Aisha Khan,Shipped
+ORD-1082,01/10/2026,Isla Taylor, Scotland ,Accessories,Laptop Sleeve,4,24.99,0,Daniel Evans,Shipped
+ORD-1162,27/09/2026,Noah Jones,Scotland,Monitors,Monitor 24in,4,139,0,Priya Shah,Shipped
+ORD-1075,08/04/2026,Leo Roberts,Scotlnd,Laptops,Laptop Pro 14,4,899,0,Daniel Evans,completed
+ORD-1129,08/07/2026,Evie Hughes,Wales,Monitors,Monitor 32in Curved,7,£329,0,Priya Shah,Cancelled
+ORD-1036,2026-08-29,  Mia Walker,Mid-lands,Accessories,USB-C Hub,31,34.5,0,Tom Hargreaves,Shipped
+ORD-1244,13/06/2026,Grace Jones,Midlands,Accessories,Keyboard,21,49,0.1,Sophie Turner,Pending
+ORD-1213,04/02/2026,Henry Evans,Scotland,Accessories,Laptop Sleeve,25,24.99,0,Sophie Turner,Shipped
+ORD-1200,27/09/2026,Leo Edwards,London,Laptops,Laptop Air 13,1,649,0,Aisha Khan,Cancelled
+ORD-1052,17/08/2026,JACK BROWN,South West,Accessories,Keyboard,30,49,0,Daniel Evans,Shipped
+ORD-1113,01/10/2026,Henry Thompson,South West,Software,Antivirus 1yr,11,39.99,0.05,Sophie Turner,Shipped
+ORD-1103,2026-10-10,Charlie Roberts,North West,Software,Office Suite,4,99,0.05,Priya Shah,Cancelled
+ORD-1228,22/06/2026,Jack Hughes,South West,Laptops,Laptop Pro 14,1,£899,0.1,Aisha Khan,Cancelled 
+ORD-1063,29/08/2026,Mia Walker,North East,Laptops,Laptop Basic 15,1,429,0.15,Priya Shah,Cancelled
+ORD-1013,09/08/2026,Oscar Hughes,South West,Monitors,Monitor 27in,7,229,0.15,Priya Shah,Cancelled
+ORD-1154,23/05/2026,Freya White,South West,Accessories,Keyboard,37,49,0.1,Sophie Turner,Cancelled
+ORD-1206,02/07/2026,Grace Smith,SOUTH WEST,Laptops,Laptop Basic 15,3,429,0,,Completed
+ORD-1171,22/02/2026,Henry Roberts,Scotland,Accessories,Laptop Sleeve,,24.99,0,,Shipped
+ORD-1153,21/03/2026,Mia Walker,South West,Software,Office Suite,2,99,0.1,,Shipped
+ORD-1026,06/05/2026,  Isla Thompson,South West,Monitors,Monitor 27in,3,229,0.1,Daniel Evans,Shipped
+ORD-1221,04/07/2026,Mia Evans,Scotland,Monitors,Monitor 27in,9,229,0,Priya Shah,Shipped
+ORD-1053,24/09/2026,Ruby Robinson,London,Software,Cloud Backup 1yr,4,59,0,Daniel Evans,Shipped
+ORD-1062,17/06/2026,Isla Wilson,South West,Monitors,Monitor 27in,5,229,0.05,Aisha Khan,Shipped
+ORD-1005,08/09/2026,Leo Wright,North West,Laptops,Laptop Pro 14,3,899,0,Sophie Turner,Shipped
+ORD-1158,12/07/2026,Grace Hughes,Mid-lands,Software,Antivirus 1yr,6,39.99,0,Daniel Evans,Shipped
+ORD-1209,14/06/2026,Evie Roberts,Midlands,Laptops,Laptop Pro 14,6,899,0.05,Sophie Turner,Cancelled
+ORD-1201,09/01/2026,Leo Wright,Wales,Monitors,Monitor 24in,6,139,0.15,Daniel Evans,Shipped
+ORD-1219,09/10/2026,Henry Thompson,Wales,Monitors,Monitor 27in,3,229,0.15,Daniel Evans,Shipped
+ORD-1029,16/05/2026,Amelia Smith,Wales,Software,Antivirus 1yr,1,39.99,0.05,Aisha Khan,Shipped
+ORD-1049,11/09/2026,Jack Hughes,Wales,Software,Office Suite,3,99,0,Priya Shah,Completed
+ORD-1071,11/08/2026,Freya White, London ,Accessories,Laptop Sleeve,36,24.99,0.05,Liam O'Connor,Cancelled
+ORD-1040,12/08/2026,Jack Brown,North West,Laptops,Laptop Air 13,2,649,15,Liam O'Connor,Shipped
+ORD-1226,10/02/2026,  Jack Roberts,Mid-lands,Monitors,Monitor 24in,11,139,0,Daniel Evans,shipped
+ORD-1118,04/05/2026,Oscar Wilson,LONDON,Software,Cloud Backup 1yr,3,59,0.15,Aisha Khan,Completed
+ORD-1064,21/01/2026,Oscar Taylor,north east,Laptops,Laptop Pro 14,1,899,0,,Completed
+ORD-1059,22/06/2026,Charlie Roberts,London,Software,Cloud Backup 1yr,3,59,0,Sophie Turner,Pending
+ORD-1240,2026-02-07,  isla wilson, Scotland ,Software,Cloud Backup 1yr,8,59,0,Sophie Turner,cancelled
+ORD-1137,19/04/2026,mia evans,SOUTH WEST,Laptops,Laptop Pro 14,2,899,0.1,Tom Hargreaves,Shipped
+ORD-1147,09/08/2026,JACK HUGHES, South West ,Laptops,Laptop Basic 15,6,429,0.1,Daniel Evans,Shipped
+ORD-1140,14/01/2026,Evie Taylor, SOUTH WEST ,Accessories,Wireless Mouse,24,19.99,0,Sophie Turner,Shipped 
+ORD-1241,02/03/2026,Evie Robinson,South West,Accessories,Wireless Mouse,27,19.99,0,Sophie Turner,Shipped
+ORD-1242,15/03/2026,Grace Wilson,north west,Accessories,Keyboard,34,49,0,Tom Hargreaves,Cancelled
+ORD-1077,06/06/2026,Mia Thomas,midlands,Monitors,Monitor 27in,9,229,0.05,Daniel Evans,pending
+ORD-1237,26/01/2026,Charlie Roberts,Wales,Monitors,Monitor 27in,10,£229,0.15,Liam O'Connor,Shipped
+ORD-1233,09/07/2026,GRACE SMITH,Midlands,Laptops,Laptop Air 13,4,649,0.05,Tom Hargreaves,Shipped
+ORD-1058,07/10/2026,Ruby Robinson,london,Accessories,Keyboard,16,49,0.05,Priya Shah,Completed
+ORD-1211,11/08/2026,Henry White,Wales,Monitors,Monitor 32in Curved,1,329,0.15,Liam O'Connor,Shipped
+ORD-1033,18/04/2026,Freya White,Scotland,Accessories,Wireless Mouse,24,19.99,0.05,Sophie Turner,Cancelled
+ORD-1136,08/07/2026,Ruby Robinson,,Monitors,Monitor 24in,7,139,0,Liam O'Connor,Shipped
+ORD-1101,15/08/2026,Mia Evans,Midlands,Laptops,Laptop Pro 14,5,899,0.05,Daniel Evans,Completed
+ORD-1138,11/10/2026,Jack Taylor,South West,Accessories,USB-C Hub,16,34.5,0,Sophie Turner,Shipped
+ORD-1046,28/03/2026,Leo Edwards,Scotland,Laptops,Laptop Air 13,6,649,0,Priya Shah,shipped
+ORD-1031,07/08/2026,Mia White,Scotland,Laptops,Laptop Pro 14,,£899,0,Aisha Khan,Pending
+ORD-1090,21/08/2026,Evie Taylor, South West ,Laptops,Laptop Basic 15,3,429,0.15,Sophie Turner,Cancelled
+ORD-1138,11/10/2026,Jack Taylor,South West,Accessories,USB-C Hub,16,34.5,0,Sophie Turner,Shipped
+ORD-1214,19/08/2026,Isla Wilson,North West,Monitors,Monitor 27in,8,229,0.1,Tom Hargreaves,Pending
+ORD-1223,12/06/2026,Mia Thomas,MIDLANDS,Laptops,Laptop Air 13,6,649,0,Sophie Turner,Cancelled
+ORD-1170,19/09/2026,Ruby Thomas,South West,Accessories,Laptop Sleeve,24,24.99,0.15,Tom Hargreaves,Shipped
+ORD-1175,08/07/2026,  Amelia Smith,SCOTLAND,Monitors,Monitor 24in,11,139,0.1,,Completed
+ORD-1021,30/01/2026,Henry White,,Laptops,Laptop Pro 14,5,899,0,Liam O'Connor,Shipped
+ORD-1205,21/09/2026,Jack Brown,North West,Software,Cloud Backup 1yr,8,59,0.15,Tom Hargreaves,Shipped
+ORD-1097,12/08/2026,Mia Walker,LONDON,Software,Office Suite,8,99,0,Aisha Khan,Cancelled
+ORD-1029,16/05/2026,Amelia Smith,Wales,Software,Antivirus 1yr,1,39.99,0.05,Aisha Khan,Shipped
+ORD-1098,23/02/2026,Mia Roberts,Londn,Accessories,Laptop Sleeve,28,24.99,0,Daniel Evans,Completed
+ORD-1096,18/05/2026,Jack Hughes,London,Laptops,Laptop Pro 14,5,899,0,Tom Hargreaves,Pending
+ORD-1108,06/10/2026,Oliver Davies,Wales,Software,Antivirus 1yr,6,39.99,0,Sophie Turner,Completed
+ORD-1166,22/10/2026,HENRY THOMPSON,Wales,Software,Cloud Backup 1yr,7,59,0.05,Aisha Khan,Shipped
+ORD-1187,13/08/2026,Ruby Thomas,North East,Laptops,Laptop Air 13,6,649,0.05,Sophie Turner,Shipped
+ORD-1165,01/07/2026,Noah Thomas,NORTH WEST,Laptops,Laptop Air 13,1,649,0.05,Priya Shah,Shipped 
+ORD-1215,07/07/2026,Ruby Robinson,North East,Software,Antivirus 1yr,11,39.99,0,Priya Shah,cancelled
+ORD-1035,30/07/2026,Evie Taylor,Wales,Accessories,Laptop Sleeve,12,24.99,0,Liam O'Connor,Shipped
+ORD-1197,03/08/2026,CHARLIE ROBERTS,London,Software,Office Suite,2,99,0.1,Sophie Turner,Shipped
+ORD-1141,09/01/2026,  Mia Evans,Wales,Accessories,Laptop Sleeve,5,24.99,5,Sophie Turner,Shipped
+ORD-1105,30/08/2026,  Mia White,London,Accessories,Keyboard,37,49,0,Sophie Turner,Pending
+ORD-1074,13/05/2026,MIA ROBERTS, midlands ,Monitors,Monitor 27in,10,229,0.1,Priya Shah,Pending
+ORD-1009,03/03/2026,Jack Taylor,North West,Accessories,USB-C Hub,6,34.5,0.1,Sophie Turner,Shipped
+ORD-1121,05/09/2026,  Mia Walker,Scotland,Laptops,Laptop Pro 14,5,899,0,Daniel Evans,Shipped
+ORD-1018,19/07/2026,Noah Thomas,Wales,Monitors,Monitor 27in,5,229,0.15,Sophie Turner,Cancelled
+ORD-1016,15/08/2026,CHARLIE ROBERTS,North West,Laptops,Laptop Pro 14,,899,0,Tom Hargreaves,Shipped
+ORD-1139,22/05/2026,Jack Brown,South West,Accessories,USB-C Hub,36,34.5,0,Priya Shah,Cancelled
+ORD-1017,28/07/2026,Noah Jones,North West,Software,Antivirus 1yr,4,39.99,0,Liam O'Connor,Shipped
+ORD-1180,21/06/2026,Arthur Thomas,London,Laptops,Laptop Air 13,5,649,0,Aisha Khan,Cancelled
+ORD-1089,19/08/2026,Oscar Wilson,Mid-lands,Software,Antivirus 1yr,1,39.99,0.15,Aisha Khan,Cancelled
+ORD-1109,30/04/2026,Arthur Edwards,London,Software,Office Suite,6,99,0.15,Liam O'Connor,Completed
+ORD-1012,23/10/2026,Jack Thompson,London,Software,Office Suite,8,99,0,Priya Shah,Shipped
+ORD-1019,07/09/2026,Ella Wright,North West,Accessories,USB-C Hub,20,34.5,0.1,Daniel Evans,Pending
+ORD-1149,18/02/2026,Arthur Roberts,Midlands,Monitors,Monitor 27in,6,229,0,Tom Hargreaves,Cancelled
+ORD-1056,01/08/2026,Freya White,Scotland,Laptops,Laptop Pro 14,4,899,0.15,,Pending
+ORD-1191,22/02/2026,Ruby Robinson,London,Laptops,Laptop Air 13,2,649,0.1,Tom Hargreaves,Completed
+ORD-1001,11/10/2026,Arthur Thomas,Scotland,Laptops,Laptop Basic 15,1,429,0,Daniel Evans,Shipped
+ORD-1210,07/08/2026,Isla Thompson,N West,Accessories,Keyboard,24,49,0.15,Aisha Khan,Pending
+ORD-1066,28/02/2026,Grace Jones,N West,Accessories,Laptop Sleeve,8,24.99,0,Sophie Turner,Cancelled
+ORD-1102,04/03/2026,Henry Thompson,North East,Laptops,Laptop Basic 15,2,429,0,Sophie Turner,shipped
+ORD-1006,13/02/2026,Freya White,North East,Software,Office Suite,9,99,0,Daniel Evans,Completed
+ORD-1186,09/03/2026,henry roberts,South West,Software,Office Suite,3,99,0.15,Sophie Turner,Shipped
+ORD-1079,09/04/2026,Freya Hughes,South West,Monitors,Monitor 24in,-3,139,0.15,Tom Hargreaves,Shipped
+ORD-1207,14/08/2026,Leo Roberts,Wales,Software,Antivirus 1yr,3,39.99,0.05,Aisha Khan,Pending
+ORD-1173,15/06/2026,Henry White,London,Monitors,Monitor 24in,8,139,0.05,Daniel Evans,Shipped
+ORD-1119,11/05/2026,Freya Hughes,North East,Laptops,Laptop Air 13,6,649,0,Liam O'Connor,Shipped
+ORD-1144,03/09/2026,Noah Evans,Londn,Software,Antivirus 1yr,11,39.99,0.15,Liam O'Connor,Shipped
+ORD-1232,15/03/2026,Ruby Thomas,South West,Monitors,Monitor 32in Curved,6,329,0,Liam O'Connor,Shipped
+ORD-1145,11/02/2026,Henry White,North East,Monitors,Monitor 32in Curved,3,329,0,Sophie Turner,Cancelled
+ORD-1250,30/08/2026,Ella Wright,scotland,Laptops,Laptop Basic 15,5,429,0,Daniel Evans,Completed
+ORD-1107,02/06/2026,freya hughes,London,Software,Office Suite,8,99,0,Aisha Khan,Pending
+ORD-1132,20/01/2026,Noah Evans,North East,Monitors,Monitor 27in,2,229,0.1,Tom Hargreaves,Completed
+ORD-1034,21/03/2026,Grace Walker,North West,Accessories,USB-C Hub,13,34.5,0,Daniel Evans,Shipped
+ORD-1117,03/04/2026,Oscar Taylor,South West,Accessories,USB-C Hub,7,34.5,5,Sophie Turner,Cancelled 
+ORD-1015,08/04/2026,Henry Roberts,Midlands,Software,Office Suite,7,99,0.05,Tom Hargreaves,Shipped
+ORD-1208,17/05/2026,Noah Thomas,Scotland,Laptops,Laptop Basic 15,1,429,0,Sophie Turner,Shipped
+ORD-1115,21/02/2026,Amelia Hughes,,Software,Office Suite,12,99,0,Aisha Khan,Shipped
+ORD-1131,02/02/2026,Jack Hughes,London,Software,Cloud Backup 1yr,5,59,0,Tom Hargreaves,Shipped
+ORD-1231,31/01/2026,Ruby Davies,London,Accessories,Keyboard,28,49,0,Aisha Khan,Pending
+ORD-1047,08/06/2026,Oscar Thomas,North West,Accessories,USB-C Hub,11,34.5,0,Liam O'Connor,Pending
+ORD-1235,10/06/2026,Noah Davies,London,Accessories,USB-C Hub,33,£34.5,0.05,Aisha Khan,Completed
+ORD-1106,11/03/2026,  Evie Taylor,Scotland,Laptops,Laptop Air 13,3,649,0,Priya Shah,Shipped
+ORD-1060,14/01/2026,  ARTHUR ROBERTS,North West,Software,Cloud Backup 1yr,10,59,0,Daniel Evans,Completed
+ORD-1227,01/10/2026,Grace Jones,Scotland,Laptops,Laptop Basic 15,2,429,0,Tom Hargreaves,Cancelled
+ORD-1168,12/08/2026,  Noah Jones,Scotlnd,Laptops,Laptop Pro 14,,899,0,Liam O'Connor,Shipped
+ORD-1085,23/10/2026,  Amelia Hughes,North West,Laptops,Laptop Pro 14,5,899,0,Priya Shah,Pending
